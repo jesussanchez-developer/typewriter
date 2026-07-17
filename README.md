@@ -1,13 +1,12 @@
 # ⌨️ SpeedType
 
-Pon a prueba tu velocidad de escritura y descubre qué tan rápido eres escribiendo. Compite contra ti mismo, supera tus récords y desbloquea nuevos niveles de dificultad.
+Pon a prueba tu velocidad de escritura y descubre qué tan rápido eres escribiendo. Compite contra ti mismo, supera tus récords en cada nível de dificultad.
 
 ---
 
 ## 🚀 Características
 
 - 📊 Cálculo de palabras por minuto (PPM/WPM).
-- 🎯 Precisión de escritura (% de aciertos).
 - ❌ Conteo de errores en tiempo real.
 - ⏱️ Cronómetro configurable.
 - 🔥 Racha de palabras correctas.
@@ -15,7 +14,6 @@ Pon a prueba tu velocidad de escritura y descubre qué tan rápido eres escribie
 - 💾 Récords guardados localmente.
 - 🌙 Modo claro y oscuro.
 - 📱 Diseño adaptable para dispositivos móviles.
-- 🎮 Sistema de niveles y logros.
 
 ---
 
@@ -66,24 +64,6 @@ Pensado para mecanógrafos experimentados.
 
 ---
 
-## 🔴 Experto
-
-La dificultad máxima.
-
-**Características**
-
-- Párrafos completos.
-- Símbolos especiales.
-- Mezcla de mayúsculas y minúsculas.
-- Números.
-- Acentos.
-- Comillas.
-- Paréntesis.
-- Velocidad recomendada:
-  - 80–100+ PPM
-
----
-
 # 🏆 Sistema de puntuación
 
 La puntuación final depende de:
@@ -102,58 +82,9 @@ La puntuación final depende de:
 Después de cada partida se mostrarán:
 
 - Palabras por minuto.
-- Caracteres por minuto.
 - Precisión.
 - Errores.
 - Tiempo total.
-- Racha máxima.
-- Nivel alcanzado.
-- Mejor récord personal.
-
----
-
-# 🏅 Logros
-
-- Primer intento.
-- Sin errores.
-- 50 PPM.
-- 75 PPM.
-- 100 PPM.
-- Racha de 25 palabras.
-- Racha de 50 palabras.
-- Maestro de la escritura.
-- Experto sin errores.
-- Récord personal.
-
----
-
-# ⚙️ Configuración
-
-El usuario puede personalizar:
-
-- Duración de la prueba.
-- Idioma.
-- Tema claro/oscuro.
-- Tamaño del texto.
-- Fuente.
-- Sonidos.
-- Mostrar teclado virtual.
-- Mostrar contador de errores.
-- Mostrar cronómetro.
-
----
-
-# 📚 Tipos de texto
-
-- Palabras aleatorias.
-- Frases comunes.
-- Refranes.
-- Citas célebres.
-- Fragmentos literarios.
-- Código de programación.
-- Números.
-- Símbolos.
-- Textos personalizados.
 
 ---
 
