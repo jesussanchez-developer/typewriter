@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Detector de velocidad de escritura</title>
+    <link rel="stylesheet" href="../css/style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Typing Speed Test</h1>
+
+      <div class="panel">
+        <label for="difficulty">Dificultad:</label>
+        <select id="difficulty">
+          <option value="easy">Fácil</option>
+          <option value="medium" selected>Media</option>
+          <option value="hard">Difícil</option>
+        </select>
+
+        <button id="restart">Reiniciar</button>
+      </div>
+
+      <div id="stats">
+        <p>Tiempo: <span id="time">0</span>s</p>
+        <p>WPM: <span id="wpm">0</span></p>
+        <p>Precisión: <span id="accuracy">100</span>%</p>
+        <p>Errores: <span id="errors">0</span></p>
+      </div>
+
+      <div id="textDisplay"></div>
+
+      <textarea id="input" placeholder="Empieza a escribir aquí..."></textarea>
+
+      <div id="history">
+        <h3>Mejor WPM: <span id="bestWpm">0</span></h3>
+        <h3>Promedio: <span id="avgWpm">0</span></h3>
+      </div>
+    </div>
+
+    <script src="../js/script.js"></script>
+  </body>
+</html>
