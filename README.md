@@ -1,44 +1,162 @@
-# Typewriter
+# ⌨️ SpeedType
 
-A simple web application that lets users write a letter and watch it come to life with a classic **typewriter animation**, followed by a visual transition into an **aged parchment** presentation.
+Pon a prueba tu velocidad de escritura y descubre qué tan rápido eres escribiendo. Compite contra ti mismo, supera tus récords y desbloquea nuevos niveles de dificultad.
 
-## ✨ Features
+---
 
-- Write a custom letter.
-- Animated typewriter effect.
-- Automatic transition to an old parchment style.
-- Clean and minimalist interface.
-- Responsive design for desktop and mobile devices.
-- Built with vanilla HTML, CSS, and JavaScript.
+## 🚀 Características
 
-## 🚀 Demo
+- 📊 Cálculo de palabras por minuto (PPM/WPM).
+- 🎯 Precisión de escritura (% de aciertos).
+- ❌ Conteo de errores en tiempo real.
+- ⏱️ Cronómetro configurable.
+- 🔥 Racha de palabras correctas.
+- 📈 Estadísticas al finalizar cada partida.
+- 💾 Récords guardados localmente.
+- 🌙 Modo claro y oscuro.
+- 📱 Diseño adaptable para dispositivos móviles.
+- 🎮 Sistema de niveles y logros.
 
-Open the project in your browser and start writing your letter.
+---
 
-## 📂 Project Structure
+# 🎮 Modos de juego
 
-```text
-typewriter/
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-└── assets/
-```
+## 🟢 Principiante
 
-> *The structure above may vary depending on your implementation.*
+Ideal para quienes apenas comienzan.
 
-## 🛠️ Technologies
+**Características**
 
-- HTML5
-- CSS3
-- JavaScript (ES6)
+- Palabras comunes.
+- Sin límite estricto de errores.
+- Velocidad recomendada: 20–40 PPM.
+- Textos cortos.
+- Tiempo sugerido:
+  - 30 segundos
+  - 1 minuto
 
-## 🎯 Purpose
+---
 
-This project explores how typography, animation, and visual design can enhance the emotional experience of reading a personal letter. Rather than displaying text instantly, it recreates the feeling of watching a letter being written before preserving it on an old parchment.
+## 🔵 Intermedio
 
-## 📜 License
+Para usuarios con buena velocidad.
 
-This project is licensed under the MIT License.
+**Características**
+
+- Frases completas.
+- Uso de signos de puntuación.
+- Palabras de longitud media.
+- Velocidad recomendada:
+  - 40–60 PPM
+
+---
+
+## 🟠 Avanzado
+
+Pensado para mecanógrafos experimentados.
+
+**Características**
+
+- Palabras largas.
+- Acentos obligatorios.
+- Números.
+- Signos de puntuación.
+- Velocidad recomendada:
+  - 60–80 PPM
+
+---
+
+## 🔴 Experto
+
+La dificultad máxima.
+
+**Características**
+
+- Párrafos completos.
+- Símbolos especiales.
+- Mezcla de mayúsculas y minúsculas.
+- Números.
+- Acentos.
+- Comillas.
+- Paréntesis.
+- Velocidad recomendada:
+  - 80–100+ PPM
+
+---
+
+# 🏆 Sistema de puntuación
+
+La puntuación final depende de:
+
+- Palabras por minuto.
+- Precisión.
+- Tiempo empleado.
+- Cantidad de errores.
+- Racha máxima.
+- Dificultad elegida.
+
+---
+
+# 📈 Estadísticas
+
+Después de cada partida se mostrarán:
+
+- Palabras por minuto.
+- Caracteres por minuto.
+- Precisión.
+- Errores.
+- Tiempo total.
+- Racha máxima.
+- Nivel alcanzado.
+- Mejor récord personal.
+
+---
+
+# 🏅 Logros
+
+- Primer intento.
+- Sin errores.
+- 50 PPM.
+- 75 PPM.
+- 100 PPM.
+- Racha de 25 palabras.
+- Racha de 50 palabras.
+- Maestro de la escritura.
+- Experto sin errores.
+- Récord personal.
+
+---
+
+# ⚙️ Configuración
+
+El usuario puede personalizar:
+
+- Duración de la prueba.
+- Idioma.
+- Tema claro/oscuro.
+- Tamaño del texto.
+- Fuente.
+- Sonidos.
+- Mostrar teclado virtual.
+- Mostrar contador de errores.
+- Mostrar cronómetro.
+
+---
+
+# 📚 Tipos de texto
+
+- Palabras aleatorias.
+- Frases comunes.
+- Refranes.
+- Citas célebres.
+- Fragmentos literarios.
+- Código de programación.
+- Números.
+- Símbolos.
+- Textos personalizados.
+
+---
+
+# 🎯 Objetivo
+
+Mejorar progresivamente la velocidad y precisión de escritura mediante desafíos cada vez más difíciles, estadísticas detalladas y un sistema de progresión que incentive la práctica constante.
